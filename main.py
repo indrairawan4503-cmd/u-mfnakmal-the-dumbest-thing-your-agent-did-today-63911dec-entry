@@ -3,6 +3,8 @@
 
 Variant A for make.fun's "The Dumbest Thing Your Agent Did Today":
 the agent deleted / overwrote the wrong file.
+The joke: the agent "tidies up" by deleting the only finished copy,
+then proudly submits the empty directory as the final build.
 Stdlib only, no network, no randomness, deterministic output.
 """
 
